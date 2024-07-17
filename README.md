@@ -12,6 +12,9 @@
 
 ![](https://dachangoffer-public.oss-cn-shenzhen.aliyuncs.com/dachangoffer-gz-log.jpg)
 
+# 简历模板
+[Java简历模板]([http://neitui.co](https://github.com/dachangoffer/dachangoffer/tree/main/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF))
+
 # 简历例句
 
 ## 1. 产品经理
