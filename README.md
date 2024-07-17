@@ -3,9 +3,9 @@
 求职内推快速链接：【校内推】[neitui.co](http://neitui.co)
 内推副业快速链接：【校内推】[neitui.co](http://neitui.co)
 
-| 内推直达二维码，扫码简历直投                                     | 简历模板/刷题/面经小程序                                 | 关注【大厂offer 研习社】公众号，防失联                       |
+| 内推直达二维码，扫码简历直投 | 简历模板/刷题/面经小程序 | 关注【大厂offer 研习社】公众号，防失联 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://dachangoffer-public.oss-cn-shenzhen.aliyuncs.com/contact-wechat-qr.jpeg) | <img src="https://dachangoffer-public.oss-cn-shenzhen.aliyuncs.com/dachangoffer-mp-log.jpg" width = "260" height = "300" alt="图片名称" align=center /> | ![](https://dachangoffer-public.oss-cn-shenzhen.aliyuncs.com/dachangoffer-gz-log.jpg) |
+| < img src="https://dachangoffer-public.oss-cn-shenzhen.aliyuncs.com/contact-wechat-qr.jpeg" width = "260" height = "300" alt="图片名称" align=center /> | ![](https://dachangoffer-public.oss-cn-shenzhen.aliyuncs.com/dachangoffer-mp-log.jpg) | ![](https://dachangoffer-public.oss-cn-shenzhen.aliyuncs.com/dachangoffer-gz-log.jpg) |
 
 
 
