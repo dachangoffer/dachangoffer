@@ -14,32 +14,32 @@
 # 简历例句
 
 ## 1. 产品经理
-* 技能例句
-* 项目经验
+* [技能例句](https://github.com/dachangoffer/dachangoffer/blob/0ff041a9898ef26a16bf67f08ecd700b7be96067/Java%E6%8A%80%E8%83%BD%E4%BE%8B%E5%8F%A5/java-skill.md)
+* [项目经验](http://neitui.co)
 
 ## 2.  运营经理
-* 技能例句
-* 项目经验
+* [技能例句](http://neitui.co)
+* [项目经验](http://neitui.co)
 
 ## 3. java工程师
-* 技能例句
-* 项目经验
+* [技能例句](http://neitui.co)
+* [项目经验](http://neitui.co)
 
 ## 4. 数据工程师
-* 技能例句
-* 项目经验
+* [技能例句](http://neitui.co)
+* [项目经验](http://neitui.co)
 
 ## 5. 算法工程师
-* 技能例句
-* 项目经验
+* [技能例句](http://neitui.co)
+* [项目经验](http://neitui.co)
 
 ## 6. 前端工程师
-* 技能例句
-* 项目经验
+* [技能例句](http://neitui.co)
+* [项目经验](http://neitui.co)
 
 ## 7. python 工程师
-* 技能例句
-* 项目经验
+* [技能例句](http://neitui.co)
+* [项目经验](http://neitui.co)
 
 
 
